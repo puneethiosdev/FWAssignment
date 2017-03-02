@@ -1,0 +1,6 @@
+framework module Pods_FlipLearn {
+  umbrella header "Pods-FlipLearn-umbrella.h"
+
+  export *
+  module * { export * }
+}
